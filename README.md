@@ -8,3 +8,5 @@ je suis dieu
 # Collaborateurs
 
 - Vid
+-Thomas
+
