@@ -8,3 +8,4 @@ je suis dieu
 # Collaborateurs
 
 - Vid
+- sacori (aka dieu)
