@@ -1,2 +1,2 @@
-[](banner.md)
+[ref](banner.md)
 # Salut la team
